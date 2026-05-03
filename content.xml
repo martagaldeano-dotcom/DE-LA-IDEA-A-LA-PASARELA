@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260503193554661YYF</value>
+    <value>2026050320225391X8SO</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260503193554HLWWXE</value>
+    <value>20260503202253FCJQN5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1777827791941</value>
+    <value>1777832563273</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-moq0qwly-zniuw0fjq</odePageId>
+  <odePageId>page-moq3lt5f-am7zafwzx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>INTRODUCCIÓN</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwly-zniuw0fjq</odePageId>
+      <odePageId>page-moq3lt5f-am7zafwzx</odePageId>
       <odeBlockId>block-1777479021492-63nll769y</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwly-zniuw0fjq</odePageId>
+          <odePageId>page-moq3lt5f-am7zafwzx</odePageId>
           <odeBlockId>block-1777479021492-63nll769y</odeBlockId>
           <odeIdeviceId>idevice-1777479021490-ikxwmn038</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -192,7 +192,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwm2-6v13rb7tw</odePageId>
+  <odePageId>page-moq3lt5j-glpjm6egx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>SITUACIÓN DE APRENDIZAJE</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -228,7 +228,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwm2-6v13rb7tw</odePageId>
+      <odePageId>page-moq3lt5j-glpjm6egx</odePageId>
       <odeBlockId>block-1777480566230-kmu1z1v9w</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -257,7 +257,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwm2-6v13rb7tw</odePageId>
+          <odePageId>page-moq3lt5j-glpjm6egx</odePageId>
           <odeBlockId>block-1777480566230-kmu1z1v9w</odeBlockId>
           <odeIdeviceId>idevice-1777480566228-jbcj3v5bm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -320,7 +320,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwm3-ryz48fhd2</odePageId>
+  <odePageId>page-moq3lt5l-654ofix1e</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>INFORMACIÓN PARA EL ALUMNADO</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -356,7 +356,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwm3-ryz48fhd2</odePageId>
+      <odePageId>page-moq3lt5l-654ofix1e</odePageId>
       <odeBlockId>block-1777480883013-jtu2ispc6</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -385,7 +385,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwm3-ryz48fhd2</odePageId>
+          <odePageId>page-moq3lt5l-654ofix1e</odePageId>
           <odeBlockId>block-1777480883013-jtu2ispc6</odeBlockId>
           <odeIdeviceId>idevice-1777480883011-py7sed4zy</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -463,8 +463,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwm5-ilf0ilqlx</odePageId>
-  <odeParentPageId>page-moq0qwm3-ryz48fhd2</odeParentPageId>
+  <odePageId>page-moq3lt5m-kp8xq04et</odePageId>
+  <odeParentPageId>page-moq3lt5l-654ofix1e</odeParentPageId>
   <pageName>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -499,7 +499,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwm5-ilf0ilqlx</odePageId>
+      <odePageId>page-moq3lt5m-kp8xq04et</odePageId>
       <odeBlockId>block-1777481246278-ssqyht0m3</odeBlockId>
       <blockName>OBSERVA ESTA GALERÍA A MODO DE PRESENTACIÓN.</blockName>
       <iconName></iconName>
@@ -528,7 +528,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwm5-ilf0ilqlx</odePageId>
+          <odePageId>page-moq3lt5m-kp8xq04et</odePageId>
           <odeBlockId>block-1777481246278-ssqyht0m3</odeBlockId>
           <odeIdeviceId>idevice-1777481246276-vf5yzmp48</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -563,7 +563,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwm5-ilf0ilqlx</odePageId>
+      <odePageId>page-moq3lt5m-kp8xq04et</odePageId>
       <odeBlockId>block-1777797776953-oageu3zhn</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -592,7 +592,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwm5-ilf0ilqlx</odePageId>
+          <odePageId>page-moq3lt5m-kp8xq04et</odePageId>
           <odeBlockId>block-1777797776953-oageu3zhn</odeBlockId>
           <odeIdeviceId>idevice-1777797776952-9ay490wrj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -621,8 +621,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwm8-81udyxjz6</odePageId>
-  <odeParentPageId>page-moq0qwm3-ryz48fhd2</odeParentPageId>
+  <odePageId>page-moq3lt5p-zhbrl1f69</odePageId>
+  <odeParentPageId>page-moq3lt5l-654ofix1e</odeParentPageId>
   <pageName>LINEA TEMPORAL</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -657,7 +657,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwm8-81udyxjz6</odePageId>
+      <odePageId>page-moq3lt5p-zhbrl1f69</odePageId>
       <odeBlockId>block-1777498263811-v4g2vv0cq</odeBlockId>
       <blockName>ESTE ENLACE TE PERMITIRÁ VER LOS MOMENTOS DE ENTREGA EN EL CALENDARIO</blockName>
       <iconName></iconName>
@@ -686,7 +686,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwm8-81udyxjz6</odePageId>
+          <odePageId>page-moq3lt5p-zhbrl1f69</odePageId>
           <odeBlockId>block-1777498263811-v4g2vv0cq</odeBlockId>
           <odeIdeviceId>idevice-1777498263808-uvhxfihd5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -714,7 +714,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwm8-81udyxjz6</odePageId>
+      <odePageId>page-moq3lt5p-zhbrl1f69</odePageId>
       <odeBlockId>block-1777749369052-4lgq25c1v</odeBlockId>
       <blockName>ESQUEMA DE TEMPORALIZACIÓN</blockName>
       <iconName></iconName>
@@ -743,7 +743,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwm8-81udyxjz6</odePageId>
+          <odePageId>page-moq3lt5p-zhbrl1f69</odePageId>
           <odeBlockId>block-1777749369052-4lgq25c1v</odeBlockId>
           <odeIdeviceId>idevice-1777749369052-5nfnfogdf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -772,7 +772,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwma-woog1e86v</odePageId>
+  <odePageId>page-moq3lt5r-dmu09smd3</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>GUIA DIDACTICA</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -808,7 +808,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwma-woog1e86v</odePageId>
+      <odePageId>page-moq3lt5r-dmu09smd3</odePageId>
       <odeBlockId>block-1777481681565-xwkvq8226</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -837,7 +837,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwma-woog1e86v</odePageId>
+          <odePageId>page-moq3lt5r-dmu09smd3</odePageId>
           <odeBlockId>block-1777481681565-xwkvq8226</odeBlockId>
           <odeIdeviceId>idevice-1777481681564-n25jnbdv7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -976,7 +976,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmc-dx02ctkmi</odePageId>
+  <odePageId>page-moq3lt5s-uug8bj3ie</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>EVALUACIÓN</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -1012,7 +1012,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmc-dx02ctkmi</odePageId>
+      <odePageId>page-moq3lt5s-uug8bj3ie</odePageId>
       <odeBlockId>block-1777482692273-rfcrtgab9</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1041,7 +1041,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmc-dx02ctkmi</odePageId>
+          <odePageId>page-moq3lt5s-uug8bj3ie</odePageId>
           <odeBlockId>block-1777482692273-rfcrtgab9</odeBlockId>
           <odeIdeviceId>idevice-1777482692271-o6sj66855</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1076,7 +1076,7 @@
 <ul>
 <li>Autoevaluación y reflexión final<br />El alumnado realizará una valoración personal de su experiencia, identificando logros, dificultades, aprendizajes y aspectos de mejora para futuros proyectos.</li>
 </ul>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdCx3ZlPunfovTXyoHU5xJ4W9b7GBBE0VQIy_0gTZ10tQjVkA/viewform?usp=sharing&amp;ouid=103600082117327112041" title="ENLACE A TEST DE AUTOEVALUACIÓN">ENLACE A TEST DE AUTOEVALUACIÓN</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdCx3ZlPunfovTXyoHU5xJ4W9b7GBBE0VQIy_0gTZ10tQjVkA/viewform?usp=sharing&ouid=103600082117327112041" title="ENLACE A TEST DE AUTOEVALUACIÓN">ENLACE A TEST DE AUTOEVALUACIÓN</a></p>
 <h3><strong>Criterios generales de calificación</strong></h3>
 <p>La valoración global tendrá en cuenta el equilibrio entre:</p>
 <ul>
@@ -1101,7 +1101,7 @@
 <h3><strong>Finalidad</strong></h3>
 <p>La evaluación no se entiende solo como una calificación final, sino como una herramienta para aprender mejor, avanzar con mayor autonomía y acercarse a los estándares profesionales del sector de la moda.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777482692271-o6sj66855","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de este proyecto será continua, formativa e integradora, y tendrá como finalidad acompañar el aprendizaje del alumnado durante todo el proceso creativo y técnico. No se valorará únicamente la prenda final, sino también la evolución, la implicación, la toma de decisiones y la capacidad de mejora mostrada en cada fase del trabajo.</p>\n<p>Se tendrán en cuenta tanto los resultados obtenidos como el proceso seguido, favoreciendo una evaluación objetiva, transparente y orientada al desarrollo competencial.</p>\n<h3><strong>Qué se evaluará</strong></h3>\n<p>A lo largo del proyecto se valorarán los siguientes aspectos:</p>\n<ul>\n<li>Investigación y búsqueda de referencias.</li>\n<li>Adecuación de la propuesta al briefing planteado.</li>\n<li>Creatividad y coherencia estética.</li>\n<li>Corrección técnica del patronaje.</li>\n<li>Transformaciones aplicadas al patrón base.</li>\n<li>Calidad de la confección y ensamblaje.</li>\n<li>Acabados y presentación de la prenda.</li>\n<li>Aplicación de criterios de sostenibilidad.</li>\n<li>Organización del trabajo y gestión del tiempo.</li>\n<li>Autonomía, actitud y capacidad de resolución de problemas.</li>\n<li>Comunicación final del proyecto.</li>\n</ul>\n<h3><strong>Instrumentos de evaluación</strong></h3>\n<p>Para obtener una visión completa del aprendizaje se utilizarán tres instrumentos complementarios:</p>\n<ul>\n<li>Rúbrica de producto final<br />Se aplicará al finalizar el proyecto para valorar la calidad técnica, creativa y funcional del trabajo presentado. Permitirá evaluar de forma objetiva los diferentes apartados del resultado final. </li>\n</ul>\n<p><a href=\"https://docs.google.com/spreadsheets/d/13JlI-1np-fmspnHgeNLNapC645caouTx4Soj2cfDyzQ/edit?usp=drive_link\" title=\"ENLACE A RÚBRICA\">ENLACE A RÚBRICA</a></p>\n<ul>\n<li>Lista de cotejo del proceso<br />Se utilizará durante las sesiones prácticas para registrar el seguimiento del trabajo: cumplimiento de fases, autonomía, uso adecuado de materiales, organización y evolución técnica.</li>\n</ul>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1cNCsoxSgTZ8FIfCrP8EzaINUKxaj9GkeuuXnZr-qB5A/edit?usp=drive_link\" title=\"ENLACE A LISTA DE COTEJO\">ENLACE A LISTA DE COTEJO</a></p>\n<ul>\n<li>Autoevaluación y reflexión final<br />El alumnado realizará una valoración personal de su experiencia, identificando logros, dificultades, aprendizajes y aspectos de mejora para futuros proyectos.</li>\n</ul>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdCx3ZlPunfovTXyoHU5xJ4W9b7GBBE0VQIy_0gTZ10tQjVkA/viewform?usp=sharing&amp;ouid=103600082117327112041\" title=\"ENLACE A TEST DE AUTOEVALUACIÓN\">ENLACE A TEST DE AUTOEVALUACIÓN</a></p>\n<h3><strong>Criterios generales de calificación</strong></h3>\n<p>La valoración global tendrá en cuenta el equilibrio entre:</p>\n<ul>\n<li>Resultado final del proyecto.</li>\n<li>Proceso de trabajo desarrollado.</li>\n<li>Evolución individual.</li>\n<li>Participación e implicación.</li>\n<li>Capacidad de análisis y mejora.</li>\n<li>Retroalimentación</li>\n</ul>\n<p>Durante todo el proceso el alumnado recibirá orientaciones y propuestas de mejora. La evaluación servirá también para ajustar la enseñanza, reforzar contenidos necesarios y adaptar la ayuda educativa cuando sea preciso.</p>\n<h3><strong>Atención a las diferencias individuales</strong></h3>\n<p>Se considerarán distintas variables que puedan influir en el aprendizaje:</p>\n<ul>\n<li>Ritmos de trabajo diferentes.</li>\n<li>Nivel de partida del alumnado.</li>\n<li>Incidencias justificadas.</li>\n<li>Necesidades específicas de apoyo educativo.</li>\n<li>Dificultades técnicas o materiales surgidas durante el proyecto.<br /></li>\n</ul>\n<p>Cuando sea necesario, se flexibilizarán tiempos, procedimientos o evidencias de aprendizaje para garantizar una evaluación justa e inclusiva.</p>\n<h3><strong>Finalidad</strong></h3>\n<p>La evaluación no se entiende solo como una calificación final, sino como una herramienta para aprender mejor, avanzar con mayor autonomía y acercarse a los estándares profesionales del sector de la moda.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777482692271-o6sj66855","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de este proyecto será continua, formativa e integradora, y tendrá como finalidad acompañar el aprendizaje del alumnado durante todo el proceso creativo y técnico. No se valorará únicamente la prenda final, sino también la evolución, la implicación, la toma de decisiones y la capacidad de mejora mostrada en cada fase del trabajo.</p>\n<p>Se tendrán en cuenta tanto los resultados obtenidos como el proceso seguido, favoreciendo una evaluación objetiva, transparente y orientada al desarrollo competencial.</p>\n<h3><strong>Qué se evaluará</strong></h3>\n<p>A lo largo del proyecto se valorarán los siguientes aspectos:</p>\n<ul>\n<li>Investigación y búsqueda de referencias.</li>\n<li>Adecuación de la propuesta al briefing planteado.</li>\n<li>Creatividad y coherencia estética.</li>\n<li>Corrección técnica del patronaje.</li>\n<li>Transformaciones aplicadas al patrón base.</li>\n<li>Calidad de la confección y ensamblaje.</li>\n<li>Acabados y presentación de la prenda.</li>\n<li>Aplicación de criterios de sostenibilidad.</li>\n<li>Organización del trabajo y gestión del tiempo.</li>\n<li>Autonomía, actitud y capacidad de resolución de problemas.</li>\n<li>Comunicación final del proyecto.</li>\n</ul>\n<h3><strong>Instrumentos de evaluación</strong></h3>\n<p>Para obtener una visión completa del aprendizaje se utilizarán tres instrumentos complementarios:</p>\n<ul>\n<li>Rúbrica de producto final<br />Se aplicará al finalizar el proyecto para valorar la calidad técnica, creativa y funcional del trabajo presentado. Permitirá evaluar de forma objetiva los diferentes apartados del resultado final. </li>\n</ul>\n<p><a href=\"https://docs.google.com/spreadsheets/d/13JlI-1np-fmspnHgeNLNapC645caouTx4Soj2cfDyzQ/edit?usp=drive_link\" title=\"ENLACE A RÚBRICA\">ENLACE A RÚBRICA</a></p>\n<ul>\n<li>Lista de cotejo del proceso<br />Se utilizará durante las sesiones prácticas para registrar el seguimiento del trabajo: cumplimiento de fases, autonomía, uso adecuado de materiales, organización y evolución técnica.</li>\n</ul>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1cNCsoxSgTZ8FIfCrP8EzaINUKxaj9GkeuuXnZr-qB5A/edit?usp=drive_link\" title=\"ENLACE A LISTA DE COTEJO\">ENLACE A LISTA DE COTEJO</a></p>\n<ul>\n<li>Autoevaluación y reflexión final<br />El alumnado realizará una valoración personal de su experiencia, identificando logros, dificultades, aprendizajes y aspectos de mejora para futuros proyectos.</li>\n</ul>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdCx3ZlPunfovTXyoHU5xJ4W9b7GBBE0VQIy_0gTZ10tQjVkA/viewform?usp=sharing&ouid=103600082117327112041\" title=\"ENLACE A TEST DE AUTOEVALUACIÓN\">ENLACE A TEST DE AUTOEVALUACIÓN</a></p>\n<h3><strong>Criterios generales de calificación</strong></h3>\n<p>La valoración global tendrá en cuenta el equilibrio entre:</p>\n<ul>\n<li>Resultado final del proyecto.</li>\n<li>Proceso de trabajo desarrollado.</li>\n<li>Evolución individual.</li>\n<li>Participación e implicación.</li>\n<li>Capacidad de análisis y mejora.</li>\n<li>Retroalimentación</li>\n</ul>\n<p>Durante todo el proceso el alumnado recibirá orientaciones y propuestas de mejora. La evaluación servirá también para ajustar la enseñanza, reforzar contenidos necesarios y adaptar la ayuda educativa cuando sea preciso.</p>\n<h3><strong>Atención a las diferencias individuales</strong></h3>\n<p>Se considerarán distintas variables que puedan influir en el aprendizaje:</p>\n<ul>\n<li>Ritmos de trabajo diferentes.</li>\n<li>Nivel de partida del alumnado.</li>\n<li>Incidencias justificadas.</li>\n<li>Necesidades específicas de apoyo educativo.</li>\n<li>Dificultades técnicas o materiales surgidas durante el proyecto.<br /></li>\n</ul>\n<p>Cuando sea necesario, se flexibilizarán tiempos, procedimientos o evidencias de aprendizaje para garantizar una evaluación justa e inclusiva.</p>\n<h3><strong>Finalidad</strong></h3>\n<p>La evaluación no se entiende solo como una calificación final, sino como una herramienta para aprender mejor, avanzar con mayor autonomía y acercarse a los estándares profesionales del sector de la moda.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1123,8 +1123,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmd-dq4n1cs0q</odePageId>
-  <odeParentPageId>page-moq0qwmc-dx02ctkmi</odeParentPageId>
+  <odePageId>page-moq3lt5t-40pv07vi6</odePageId>
+  <odeParentPageId>page-moq3lt5s-uug8bj3ie</odeParentPageId>
   <pageName>RUBRICA PROYECTO FALDA</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1159,7 +1159,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmd-dq4n1cs0q</odePageId>
+      <odePageId>page-moq3lt5t-40pv07vi6</odePageId>
       <odeBlockId>block-1777495753136-kyso54odd</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1188,7 +1188,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmd-dq4n1cs0q</odePageId>
+          <odePageId>page-moq3lt5t-40pv07vi6</odePageId>
           <odeBlockId>block-1777495753136-kyso54odd</odeBlockId>
           <odeIdeviceId>idevice-1777495753134-pmnqs5c3v</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1218,8 +1218,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwme-lslmw8w1k</odePageId>
-  <odeParentPageId>page-moq0qwmc-dx02ctkmi</odeParentPageId>
+  <odePageId>page-moq3lt5u-z9ae3pw24</odePageId>
+  <odeParentPageId>page-moq3lt5s-uug8bj3ie</odeParentPageId>
   <pageName>LISTA DE COTEJO PROCESO</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1254,7 +1254,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwme-lslmw8w1k</odePageId>
+      <odePageId>page-moq3lt5u-z9ae3pw24</odePageId>
       <odeBlockId>block-1777495809407-i54oy3fbo</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1283,7 +1283,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwme-lslmw8w1k</odePageId>
+          <odePageId>page-moq3lt5u-z9ae3pw24</odePageId>
           <odeBlockId>block-1777495809407-i54oy3fbo</odeBlockId>
           <odeIdeviceId>idevice-1777495809406-3fnft30hp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1312,8 +1312,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmf-h6uqg18s9</odePageId>
-  <odeParentPageId>page-moq0qwmc-dx02ctkmi</odeParentPageId>
+  <odePageId>page-moq3lt5v-ygxw3lfd6</odePageId>
+  <odeParentPageId>page-moq3lt5s-uug8bj3ie</odeParentPageId>
   <pageName>TEST DE AUTOEVALUACIÓN</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1348,7 +1348,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmf-h6uqg18s9</odePageId>
+      <odePageId>page-moq3lt5v-ygxw3lfd6</odePageId>
       <odeBlockId>block-1777497974777-rxdf8lg0q</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1377,7 +1377,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmf-h6uqg18s9</odePageId>
+          <odePageId>page-moq3lt5v-ygxw3lfd6</odePageId>
           <odeBlockId>block-1777497974777-rxdf8lg0q</odeBlockId>
           <odeIdeviceId>idevice-1777497974776-35ofj55m8</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -1404,7 +1404,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmg-bcx91sh8m</odePageId>
+  <odePageId>page-moq3lt5w-wzkq3mgw2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CONTENIDOS PARA LA DOCUMENTACIÓN Y EL DISEÑO</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -1440,7 +1440,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmg-bcx91sh8m</odePageId>
+      <odePageId>page-moq3lt5w-wzkq3mgw2</odePageId>
       <odeBlockId>block-1777485019775-ctriwkmny</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1469,7 +1469,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmg-bcx91sh8m</odePageId>
+          <odePageId>page-moq3lt5w-wzkq3mgw2</odePageId>
           <odeBlockId>block-1777485019775-ctriwkmny</odeBlockId>
           <odeIdeviceId>idevice-1777485019773-9kvd2f1te</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1499,8 +1499,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmi-r82kl851k</odePageId>
-  <odeParentPageId>page-moq0qwmg-bcx91sh8m</odeParentPageId>
+  <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
+  <odeParentPageId>page-moq3lt5w-wzkq3mgw2</odeParentPageId>
   <pageName>INVESTIGACIÓN E INSPIRACIÓN</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1535,7 +1535,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+      <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
       <odeBlockId>block-1777485070383-in7g2ioct</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1564,7 +1564,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+          <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
           <odeBlockId>block-1777485070383-in7g2ioct</odeBlockId>
           <odeIdeviceId>idevice-1777485070381-dbfvioi52</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1632,7 +1632,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+      <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
       <odeBlockId>block-1777486060792-a2x88g1s2</odeBlockId>
       <blockName>REVISTA</blockName>
       <iconName></iconName>
@@ -1661,7 +1661,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+          <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
           <odeBlockId>block-1777486060792-a2x88g1s2</odeBlockId>
           <odeIdeviceId>idevice-1777486060790-slrapr8lu</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -1686,7 +1686,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+      <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
       <odeBlockId>block-1777486182311-84k1bsp5f</odeBlockId>
       <blockName>REVISTA</blockName>
       <iconName></iconName>
@@ -1715,7 +1715,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+          <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
           <odeBlockId>block-1777486182311-84k1bsp5f</odeBlockId>
           <odeIdeviceId>idevice-1777486182310-qsw5tifdj</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -1740,7 +1740,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+      <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
       <odeBlockId>block-1777748151570-aaqgvx4d0</odeBlockId>
       <blockName>INSPIRACIÓN</blockName>
       <iconName></iconName>
@@ -1769,7 +1769,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+          <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
           <odeBlockId>block-1777748151570-aaqgvx4d0</odeBlockId>
           <odeIdeviceId>idevice-1777748151569-nxhw9jxdh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1796,7 +1796,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+      <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
       <odeBlockId>block-1777749636941-u7vp4e9ms</odeBlockId>
       <blockName>MIRA ESTAS IDEAS</blockName>
       <iconName></iconName>
@@ -1825,7 +1825,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+          <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
           <odeBlockId>block-1777749636941-u7vp4e9ms</odeBlockId>
           <odeIdeviceId>idevice-1777749636940-r7reex5ho</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -1860,7 +1860,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+      <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
       <odeBlockId>block-1777752654779-dy3airboh</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1889,7 +1889,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmi-r82kl851k</odePageId>
+          <odePageId>page-moq3lt5z-vwf9g40m6</odePageId>
           <odeBlockId>block-1777752654779-dy3airboh</odeBlockId>
           <odeIdeviceId>idevice-1777752654778-melp0i51v</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1918,8 +1918,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwml-xcmowc4iq</odePageId>
-  <odeParentPageId>page-moq0qwmg-bcx91sh8m</odeParentPageId>
+  <odePageId>page-moq3lt62-jxwxa103k</odePageId>
+  <odeParentPageId>page-moq3lt5w-wzkq3mgw2</odeParentPageId>
   <pageName>MOODBOARD Y PANEL CONCEPTUAL</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1954,7 +1954,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwml-xcmowc4iq</odePageId>
+      <odePageId>page-moq3lt62-jxwxa103k</odePageId>
       <odeBlockId>block-1777486315305-40oy5aado</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1983,7 +1983,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwml-xcmowc4iq</odePageId>
+          <odePageId>page-moq3lt62-jxwxa103k</odePageId>
           <odeBlockId>block-1777486315305-40oy5aado</odeBlockId>
           <odeIdeviceId>idevice-1777486315303-e8l92cwko</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2061,7 +2061,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwml-xcmowc4iq</odePageId>
+      <odePageId>page-moq3lt62-jxwxa103k</odePageId>
       <odeBlockId>block-1777746854490-wge1s9nva</odeBlockId>
       <blockName>ENLACES DE INTEREST PARA ESTA TAREA</blockName>
       <iconName></iconName>
@@ -2090,7 +2090,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwml-xcmowc4iq</odePageId>
+          <odePageId>page-moq3lt62-jxwxa103k</odePageId>
           <odeBlockId>block-1777746854490-wge1s9nva</odeBlockId>
           <odeIdeviceId>idevice-1777746854488-2a2cd1epm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2120,8 +2120,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmm-2jl23nqdk</odePageId>
-  <odeParentPageId>page-moq0qwmg-bcx91sh8m</odeParentPageId>
+  <odePageId>page-moq3lt63-s83u0xz9l</odePageId>
+  <odeParentPageId>page-moq3lt5w-wzkq3mgw2</odeParentPageId>
   <pageName>BRIEFING Y PÚBLICO OBJETIVO</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2156,7 +2156,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmm-2jl23nqdk</odePageId>
+      <odePageId>page-moq3lt63-s83u0xz9l</odePageId>
       <odeBlockId>block-1777487024457-kmgwc73dq</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -2185,7 +2185,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmm-2jl23nqdk</odePageId>
+          <odePageId>page-moq3lt63-s83u0xz9l</odePageId>
           <odeBlockId>block-1777487024457-kmgwc73dq</odeBlockId>
           <odeIdeviceId>idevice-1777487024455-zymm9e5yn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2251,7 +2251,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmm-2jl23nqdk</odePageId>
+      <odePageId>page-moq3lt63-s83u0xz9l</odePageId>
       <odeBlockId>block-1777747129962-j37cshpnr</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -2280,7 +2280,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmm-2jl23nqdk</odePageId>
+          <odePageId>page-moq3lt63-s83u0xz9l</odePageId>
           <odeBlockId>block-1777747129962-j37cshpnr</odeBlockId>
           <odeIdeviceId>idevice-1777747129961-wb4x7d3n6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2312,8 +2312,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
-  <odeParentPageId>page-moq0qwmg-bcx91sh8m</odeParentPageId>
+  <odePageId>page-moq3lt64-wjo14ep77</odePageId>
+  <odeParentPageId>page-moq3lt5w-wzkq3mgw2</odeParentPageId>
   <pageName>BOCETOS Y DESARROLLO CREATIVO</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2348,7 +2348,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
+      <odePageId>page-moq3lt64-wjo14ep77</odePageId>
       <odeBlockId>block-1777487400338-nww8hkl83</odeBlockId>
       <blockName>COMIENZA EL DISEÑO</blockName>
       <iconName></iconName>
@@ -2377,7 +2377,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
+          <odePageId>page-moq3lt64-wjo14ep77</odePageId>
           <odeBlockId>block-1777487400338-nww8hkl83</odeBlockId>
           <odeIdeviceId>idevice-1777487400337-2ju7gxvlr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2451,7 +2451,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
+      <odePageId>page-moq3lt64-wjo14ep77</odePageId>
       <odeBlockId>block-1777487624321-tuxmr33c3</odeBlockId>
       <blockName>IA PARA DIBUJO DE MODA</blockName>
       <iconName></iconName>
@@ -2480,7 +2480,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
+          <odePageId>page-moq3lt64-wjo14ep77</odePageId>
           <odeBlockId>block-1777487624321-tuxmr33c3</odeBlockId>
           <odeIdeviceId>idevice-1777487624320-7zidk7tqq</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -2505,7 +2505,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
+      <odePageId>page-moq3lt64-wjo14ep77</odePageId>
       <odeBlockId>block-1777494692414-eqzlj4ekg</odeBlockId>
       <blockName>ESTOS BOCETOS DESNUDOS TE SERVIRAN COMO PLANTILLAS PARA TUS DISEÑOS</blockName>
       <iconName></iconName>
@@ -2534,7 +2534,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
+          <odePageId>page-moq3lt64-wjo14ep77</odePageId>
           <odeBlockId>block-1777494692414-eqzlj4ekg</odeBlockId>
           <odeIdeviceId>idevice-1777494692413-n0wjns6vx</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -2569,7 +2569,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
+      <odePageId>page-moq3lt64-wjo14ep77</odePageId>
       <odeBlockId>block-1777747658795-2jtq3lq7t</odeBlockId>
       <blockName>APLICACIÓN PARA DIBUJO DIGITAL</blockName>
       <iconName></iconName>
@@ -2598,7 +2598,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmn-d8i2rwz63</odePageId>
+          <odePageId>page-moq3lt64-wjo14ep77</odePageId>
           <odeBlockId>block-1777747658795-2jtq3lq7t</odeBlockId>
           <odeIdeviceId>idevice-1777747658793-sucw4bjge</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2627,8 +2627,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmp-9r69j2b9j</odePageId>
-  <odeParentPageId>page-moq0qwmg-bcx91sh8m</odeParentPageId>
+  <odePageId>page-moq3lt66-swrw1j54x</odePageId>
+  <odeParentPageId>page-moq3lt5w-wzkq3mgw2</odeParentPageId>
   <pageName>FICHA TÉCNICA Y DOCUMENTACIÓN</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2663,7 +2663,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmp-9r69j2b9j</odePageId>
+      <odePageId>page-moq3lt66-swrw1j54x</odePageId>
       <odeBlockId>block-1777488773442-pflnjhnji</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -2692,7 +2692,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmp-9r69j2b9j</odePageId>
+          <odePageId>page-moq3lt66-swrw1j54x</odePageId>
           <odeBlockId>block-1777488773442-pflnjhnji</odeBlockId>
           <odeIdeviceId>idevice-1777488773440-xgqunkrsn</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2776,7 +2776,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmp-9r69j2b9j</odePageId>
+      <odePageId>page-moq3lt66-swrw1j54x</odePageId>
       <odeBlockId>block-1777494737831-j1m5qxvxy</odeBlockId>
       <blockName>ESTOS DOCUMENTOS TE SERVIRAR PARA EL DIBUJO EN PLANO Y LA FICHA TÉCNICA</blockName>
       <iconName></iconName>
@@ -2805,7 +2805,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmp-9r69j2b9j</odePageId>
+          <odePageId>page-moq3lt66-swrw1j54x</odePageId>
           <odeBlockId>block-1777494737831-j1m5qxvxy</odeBlockId>
           <odeIdeviceId>idevice-1777494737829-fbkivsk9d</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -2840,7 +2840,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmp-9r69j2b9j</odePageId>
+      <odePageId>page-moq3lt66-swrw1j54x</odePageId>
       <odeBlockId>block-1777748685283-jtbb7wk78</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -2869,7 +2869,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmp-9r69j2b9j</odePageId>
+          <odePageId>page-moq3lt66-swrw1j54x</odePageId>
           <odeBlockId>block-1777748685283-jtbb7wk78</odeBlockId>
           <odeIdeviceId>idevice-1777748685283-sqj4u8j5x</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2901,8 +2901,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwms-clnl7jaok</odePageId>
-  <odeParentPageId>page-moq0qwmg-bcx91sh8m</odeParentPageId>
+  <odePageId>page-moq3lt68-6ympe6tg8</odePageId>
+  <odeParentPageId>page-moq3lt5w-wzkq3mgw2</odeParentPageId>
   <pageName>SOSTENIBILIDAD APLICADA AL DISEÑO</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2937,7 +2937,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwms-clnl7jaok</odePageId>
+      <odePageId>page-moq3lt68-6ympe6tg8</odePageId>
       <odeBlockId>block-1777489635726-43749qfwv</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -2966,7 +2966,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwms-clnl7jaok</odePageId>
+          <odePageId>page-moq3lt68-6ympe6tg8</odePageId>
           <odeBlockId>block-1777489635726-43749qfwv</odeBlockId>
           <odeIdeviceId>idevice-1777489635723-zzw5u2uq3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3020,9 +3020,9 @@
 <p>Justifica al menos tres decisiones sostenibles aplicadas a tu colección cápsula: materiales, patronaje, confección, uso o presentación.</p>
 <h3><strong>Idea clave</strong></h3>
 <p>La sostenibilidad no es un añadido final, sino una forma de pensar el diseño desde el principio.</p>
-<p style="text-align: center;"><br title="" /><a href="https://www.telas.es/telas/telas-organicas/?gad_source=1&amp;gad_campaignid=23769058689&amp;gbraid=0AAAABDGhENgCEsjgjSvs2a69eeUr1yvcC&amp;gclid=CjwKCAjwwdbPBhBgEiwAxBRA4dgFuc_iHR8YQ3G_J252li0JbLfwFbdqo1kahg8PMdC7V3kft2uephoCiJMQAvD_BwE">TEJIDOS CON CERTIFICADO GOTS </a><br /> <br /> </p>
+<p style="text-align: center;"><br title="" /><a href="https://www.telas.es/telas/telas-organicas/?gad_source=1&gad_campaignid=23769058689&gbraid=0AAAABDGhENgCEsjgjSvs2a69eeUr1yvcC&gclid=CjwKCAjwwdbPBhBgEiwAxBRA4dgFuc_iHR8YQ3G_J252li0JbLfwFbdqo1kahg8PMdC7V3kft2uephoCiJMQAvD_BwE">TEJIDOS CON CERTIFICADO GOTS </a><br /> <br /> </p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777489635723-zzw5u2uq3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Diseñar en la actualidad implica asumir una responsabilidad con el entorno, los recursos y las personas. La sostenibilidad en moda no consiste únicamente en elegir un tejido ecológico, sino en tomar decisiones conscientes durante todo el proceso creativo y productivo.</p>\n<p>Cada elección de diseño puede reducir impacto, alargar la vida útil de la prenda y fomentar formas de consumo más responsables.</p>\n<p>¿Cómo aplicar la sostenibilidad en un proyecto de moda?</p>\n<h3><strong>1. Selección de materiales</strong></h3>\n<p>Priorizar tejidos con menor impacto ambiental o procedencia responsable:</p>\n<ul>\n<li>Algodón reciclado</li>\n<li>Lino</li>\n<li>Tencel / Lyocell</li>\n<li>Tejidos recuperados</li>\n<li>Material reutilizado o de stock</li>\n</ul>\n<h3><strong>2. Diseño duradero</strong></h3>\n<p>Crear prendas pensadas para mantenerse vigentes más tiempo:</p>\n<ul>\n<li>Buena calidad constructiva</li>\n<li>Estética atemporal</li>\n<li>Versatilidad de uso</li>\n<li>Comodidad y funcionalidad</li>\n</ul>\n<h3><strong>3. Aprovechamiento del material</strong></h3>\n<p>Reducir residuos desde el patronaje y el corte:</p>\n<ul>\n<li>Optimización del plan de corte</li>\n<li>Reutilización de retales</li>\n<li>Menor desperdicio textil</li>\n</ul>\n<h3><strong>4. Producción responsable</strong></h3>\n<p>Valorar procesos más eficientes y conscientes:</p>\n<ul>\n<li>Producción local</li>\n<li>Menor transporte</li>\n<li>Ritmos de trabajo realistas</li>\n<li>Cuidado de recursos energéticos</li>\n</ul>\n<h3><strong>5. Uso y final de vida</strong></h3>\n<p>Pensar qué ocurrirá con la prenda en el futuro:</p>\n<ul>\n<li>Facilidad de reparación</li>\n<li>Posibilidad de transformación</li>\n<li>Reciclaje</li>\n<li>Reutilización</li>\n</ul>\n<h3><strong>¿Por qué es importante?</strong></h3>\n<p>La industria textil tiene un gran impacto ambiental y social. El diseño puede formar parte del problema o de la solución. Como futuros profesionales, es importante incorporar esta mirada crítica desde la etapa formativa.</p>\n<h3><strong>Actividad propuesta</strong></h3>\n<p>Justifica al menos tres decisiones sostenibles aplicadas a tu colección cápsula: materiales, patronaje, confección, uso o presentación.</p>\n<h3><strong>Idea clave</strong></h3>\n<p>La sostenibilidad no es un añadido final, sino una forma de pensar el diseño desde el principio.</p>\n<p style=\"text-align: center;\"><br title=\"\" /><a href=\"https://www.telas.es/telas/telas-organicas/?gad_source=1&amp;gad_campaignid=23769058689&amp;gbraid=0AAAABDGhENgCEsjgjSvs2a69eeUr1yvcC&amp;gclid=CjwKCAjwwdbPBhBgEiwAxBRA4dgFuc_iHR8YQ3G_J252li0JbLfwFbdqo1kahg8PMdC7V3kft2uephoCiJMQAvD_BwE\">TEJIDOS CON CERTIFICADO GOTS </a><br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777489635723-zzw5u2uq3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Diseñar en la actualidad implica asumir una responsabilidad con el entorno, los recursos y las personas. La sostenibilidad en moda no consiste únicamente en elegir un tejido ecológico, sino en tomar decisiones conscientes durante todo el proceso creativo y productivo.</p>\n<p>Cada elección de diseño puede reducir impacto, alargar la vida útil de la prenda y fomentar formas de consumo más responsables.</p>\n<p>¿Cómo aplicar la sostenibilidad en un proyecto de moda?</p>\n<h3><strong>1. Selección de materiales</strong></h3>\n<p>Priorizar tejidos con menor impacto ambiental o procedencia responsable:</p>\n<ul>\n<li>Algodón reciclado</li>\n<li>Lino</li>\n<li>Tencel / Lyocell</li>\n<li>Tejidos recuperados</li>\n<li>Material reutilizado o de stock</li>\n</ul>\n<h3><strong>2. Diseño duradero</strong></h3>\n<p>Crear prendas pensadas para mantenerse vigentes más tiempo:</p>\n<ul>\n<li>Buena calidad constructiva</li>\n<li>Estética atemporal</li>\n<li>Versatilidad de uso</li>\n<li>Comodidad y funcionalidad</li>\n</ul>\n<h3><strong>3. Aprovechamiento del material</strong></h3>\n<p>Reducir residuos desde el patronaje y el corte:</p>\n<ul>\n<li>Optimización del plan de corte</li>\n<li>Reutilización de retales</li>\n<li>Menor desperdicio textil</li>\n</ul>\n<h3><strong>4. Producción responsable</strong></h3>\n<p>Valorar procesos más eficientes y conscientes:</p>\n<ul>\n<li>Producción local</li>\n<li>Menor transporte</li>\n<li>Ritmos de trabajo realistas</li>\n<li>Cuidado de recursos energéticos</li>\n</ul>\n<h3><strong>5. Uso y final de vida</strong></h3>\n<p>Pensar qué ocurrirá con la prenda en el futuro:</p>\n<ul>\n<li>Facilidad de reparación</li>\n<li>Posibilidad de transformación</li>\n<li>Reciclaje</li>\n<li>Reutilización</li>\n</ul>\n<h3><strong>¿Por qué es importante?</strong></h3>\n<p>La industria textil tiene un gran impacto ambiental y social. El diseño puede formar parte del problema o de la solución. Como futuros profesionales, es importante incorporar esta mirada crítica desde la etapa formativa.</p>\n<h3><strong>Actividad propuesta</strong></h3>\n<p>Justifica al menos tres decisiones sostenibles aplicadas a tu colección cápsula: materiales, patronaje, confección, uso o presentación.</p>\n<h3><strong>Idea clave</strong></h3>\n<p>La sostenibilidad no es un añadido final, sino una forma de pensar el diseño desde el principio.</p>\n<p style=\"text-align: center;\"><br title=\"\" /><a href=\"https://www.telas.es/telas/telas-organicas/?gad_source=1&gad_campaignid=23769058689&gbraid=0AAAABDGhENgCEsjgjSvs2a69eeUr1yvcC&gclid=CjwKCAjwwdbPBhBgEiwAxBRA4dgFuc_iHR8YQ3G_J252li0JbLfwFbdqo1kahg8PMdC7V3kft2uephoCiJMQAvD_BwE\">TEJIDOS CON CERTIFICADO GOTS </a><br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -3042,7 +3042,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwms-clnl7jaok</odePageId>
+      <odePageId>page-moq3lt68-6ympe6tg8</odePageId>
       <odeBlockId>block-1777489752715-7hmma9jip</odeBlockId>
       <blockName>QUÉ ES UPCICLING</blockName>
       <iconName></iconName>
@@ -3071,7 +3071,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwms-clnl7jaok</odePageId>
+          <odePageId>page-moq3lt68-6ympe6tg8</odePageId>
           <odeBlockId>block-1777489752715-7hmma9jip</odeBlockId>
           <odeIdeviceId>idevice-1777489752714-pmnkteptz</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -3096,7 +3096,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwms-clnl7jaok</odePageId>
+      <odePageId>page-moq3lt68-6ympe6tg8</odePageId>
       <odeBlockId>block-1777494606734-whul75ep7</odeBlockId>
       <blockName>TEXTIFY</blockName>
       <iconName></iconName>
@@ -3125,7 +3125,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwms-clnl7jaok</odePageId>
+          <odePageId>page-moq3lt68-6ympe6tg8</odePageId>
           <odeBlockId>block-1777494606734-whul75ep7</odeBlockId>
           <odeIdeviceId>idevice-1777494606733-qnxtox2gm</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -3152,7 +3152,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmt-7p5748y5h</odePageId>
+  <odePageId>page-moq3lt6a-pcva0nqz7</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CONTENIDOS TÉCNICOS</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -3188,7 +3188,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmt-7p5748y5h</odePageId>
+      <odePageId>page-moq3lt6a-pcva0nqz7</odePageId>
       <odeBlockId>block-1777490080228-pd1dtxi3k</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -3217,7 +3217,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmt-7p5748y5h</odePageId>
+          <odePageId>page-moq3lt6a-pcva0nqz7</odePageId>
           <odeBlockId>block-1777490080228-pd1dtxi3k</odeBlockId>
           <odeIdeviceId>idevice-1777490080226-r2okcvgvr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3248,8 +3248,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmu-63uhe8jlx</odePageId>
-  <odeParentPageId>page-moq0qwmt-7p5748y5h</odeParentPageId>
+  <odePageId>page-moq3lt6b-ejipeykxe</odePageId>
+  <odeParentPageId>page-moq3lt6a-pcva0nqz7</odeParentPageId>
   <pageName>PATRÓN BASE FALDA</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3284,7 +3284,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmu-63uhe8jlx</odePageId>
+      <odePageId>page-moq3lt6b-ejipeykxe</odePageId>
       <odeBlockId>block-1777490113051-l43q09trv</odeBlockId>
       <blockName>PRESENTACIÓN: CONCEPTOS</blockName>
       <iconName></iconName>
@@ -3313,7 +3313,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmu-63uhe8jlx</odePageId>
+          <odePageId>page-moq3lt6b-ejipeykxe</odePageId>
           <odeBlockId>block-1777490113051-l43q09trv</odeBlockId>
           <odeIdeviceId>idevice-1777490113050-f3g5cy9u1</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -3348,7 +3348,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmu-63uhe8jlx</odePageId>
+      <odePageId>page-moq3lt6b-ejipeykxe</odePageId>
       <odeBlockId>block-1777748916508-y6m15ds3j</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -3377,7 +3377,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmu-63uhe8jlx</odePageId>
+          <odePageId>page-moq3lt6b-ejipeykxe</odePageId>
           <odeBlockId>block-1777748916508-y6m15ds3j</odeBlockId>
           <odeIdeviceId>idevice-1777748916507-uogy1teyr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3404,7 +3404,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmu-63uhe8jlx</odePageId>
+      <odePageId>page-moq3lt6b-ejipeykxe</odePageId>
       <odeBlockId>block-1777749261044-bcru6dffn</odeBlockId>
       <blockName>TRAZADO DEL PATRÓN BASE DE FALDA</blockName>
       <iconName></iconName>
@@ -3433,7 +3433,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmu-63uhe8jlx</odePageId>
+          <odePageId>page-moq3lt6b-ejipeykxe</odePageId>
           <odeBlockId>block-1777749261044-bcru6dffn</odeBlockId>
           <odeIdeviceId>idevice-1777749261043-cis5pezj8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3464,8 +3464,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmw-o5vu3ativ</odePageId>
-  <odeParentPageId>page-moq0qwmt-7p5748y5h</odeParentPageId>
+  <odePageId>page-moq3lt6d-ipqc8y9la</odePageId>
+  <odeParentPageId>page-moq3lt6a-pcva0nqz7</odeParentPageId>
   <pageName>TRANSFORMACIONES BASICAS FALDA</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3500,7 +3500,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmw-o5vu3ativ</odePageId>
+      <odePageId>page-moq3lt6d-ipqc8y9la</odePageId>
       <odeBlockId>block-1777493769869-dkk6mdx6b</odeBlockId>
       <blockName>A GOLPE DE VISTA</blockName>
       <iconName></iconName>
@@ -3529,7 +3529,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmw-o5vu3ativ</odePageId>
+          <odePageId>page-moq3lt6d-ipqc8y9la</odePageId>
           <odeBlockId>block-1777493769869-dkk6mdx6b</odeBlockId>
           <odeIdeviceId>idevice-1777493769868-4usffiqs3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3556,7 +3556,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmw-o5vu3ativ</odePageId>
+      <odePageId>page-moq3lt6d-ipqc8y9la</odePageId>
       <odeBlockId>block-1777495114903-wzseybqm5</odeBlockId>
       <blockName>TRANSFORMACIONES: MODELOS</blockName>
       <iconName></iconName>
@@ -3585,7 +3585,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmw-o5vu3ativ</odePageId>
+          <odePageId>page-moq3lt6d-ipqc8y9la</odePageId>
           <odeBlockId>block-1777495114903-wzseybqm5</odeBlockId>
           <odeIdeviceId>idevice-1777495114902-lbghqbt61</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -3610,7 +3610,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmw-o5vu3ativ</odePageId>
+      <odePageId>page-moq3lt6d-ipqc8y9la</odePageId>
       <odeBlockId>block-1777749059924-kxttdpypq</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -3639,7 +3639,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmw-o5vu3ativ</odePageId>
+          <odePageId>page-moq3lt6d-ipqc8y9la</odePageId>
           <odeBlockId>block-1777749059924-kxttdpypq</odeBlockId>
           <odeIdeviceId>idevice-1777749059923-yfygp9wvx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3668,7 +3668,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmx-1ea409pwd</odePageId>
+  <odePageId>page-moq3lt6f-urfnmbcvy</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PRODUCTO FINAL</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -3704,7 +3704,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmx-1ea409pwd</odePageId>
+      <odePageId>page-moq3lt6f-urfnmbcvy</odePageId>
       <odeBlockId>block-1777496822416-zbwhm37d5</odeBlockId>
       <blockName>QUÉ DEBES HACER Y PRESENTAR</blockName>
       <iconName></iconName>
@@ -3733,7 +3733,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmx-1ea409pwd</odePageId>
+          <odePageId>page-moq3lt6f-urfnmbcvy</odePageId>
           <odeBlockId>block-1777496822416-zbwhm37d5</odeBlockId>
           <odeIdeviceId>idevice-1777496822415-dcepo80g6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3794,7 +3794,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-moq0qwmy-e2b8vsqnu</odePageId>
+  <odePageId>page-moq3lt6h-ixpmc7f0p</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CREDITOS</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -3830,7 +3830,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-moq0qwmy-e2b8vsqnu</odePageId>
+      <odePageId>page-moq3lt6h-ixpmc7f0p</odePageId>
       <odeBlockId>block-1777497039841-acbmxm9hr</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -3859,7 +3859,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmy-e2b8vsqnu</odePageId>
+          <odePageId>page-moq3lt6h-ixpmc7f0p</odePageId>
           <odeBlockId>block-1777497039841-acbmxm9hr</odeBlockId>
           <odeIdeviceId>idevice-1777497039839-gw97mie01</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3898,7 +3898,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-moq0qwmy-e2b8vsqnu</odePageId>
+      <odePageId>page-moq3lt6h-ixpmc7f0p</odePageId>
       <odeBlockId>block-1777497139665-10357vktf</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -3927,7 +3927,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-moq0qwmy-e2b8vsqnu</odePageId>
+          <odePageId>page-moq3lt6h-ixpmc7f0p</odePageId>
           <odeBlockId>block-1777497139665-10357vktf</odeBlockId>
           <odeIdeviceId>idevice-1777497139664-yeymj9j9i</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
