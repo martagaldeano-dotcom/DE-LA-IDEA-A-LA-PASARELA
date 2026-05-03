@@ -270,6 +270,8 @@ window.__ELPX_MANIFEST__={
     "content/resources/9ad179b2-0777-34a6-bcd4-7a0689a32df5.png",
     "content/resources/Patronaje-de-la-falda-base-recta-fundamentos-y-aplicaciones (1)_Página_18.png",
     "content/resources/10e9dd7a-b4a5-502d-f71c-558a282abfe3.png",
+    "content/resources/2025-11-08 20-44-05.mp4",
+    "content/resources/cfab954e-cbfe-6c84-0dd1-cc4ca4868c0d.mp4",
     "libs/elpx-manifest.js"
   ],
   "projectTitle": "DE LA IDEA A LA PASARELA: FALDA SOSTENIBLE"
